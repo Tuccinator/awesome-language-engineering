@@ -168,7 +168,7 @@ Learning how to use a C-like language such as Go to create a complete programmin
 
 **General:**
 
-* [Five Questions About Language Design](http://www.paulgraham.com/langdes.html)
+* ~~[Five Questions About Language Design](http://www.paulgraham.com/langdes.html)~~
 * [Designing the next programming language? Understand how people learn!](http://www.theenterprisearchitect.eu/blog/2013/02/14/designing-the-next-programming-language-understand-how-people-learn/)
 * [So you want to write your own language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
 * [Generations of programming languages](http://www.byte-notes.com/generation-programming-languages)
@@ -177,7 +177,7 @@ Learning how to use a C-like language such as Go to create a complete programmin
 
 **Paradigms:**
 
-* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+* ~~[Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)~~
 * [Paradigms of programming languages](http://cs.lmu.edu/~ray/notes/paradigms/)
 
 
